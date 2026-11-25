@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**RalphTaur97/RalphTaur97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm a developer 👋
 
-Here are some ideas to get you started:
+Just a regular guy who enjoys coding, experimenting
+with technology, and building random stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- 💻 I enjoy programming and solving problems.
+- 🌱 Always learning something new.
+- 🛠️ Working on personal projects from time to time.
+- ☕ Probably debugging something right now.
+
+### What I do
+
+I like exploring new technologies, creating useful
+things, and improving my skills along the way.
+
+Not a genius, just curious.
+
+---
+
+Thanks for stopping by!
